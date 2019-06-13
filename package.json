@@ -6,7 +6,7 @@
   "scripts": {
     "start": "bundle exec jekyll serve",
     "build": "bundle exec jekyll build",
-    "deploy": "gulp build && bundle exec jekyll build && s3-website deploy _site",
+    "deploy": "gulp build && bundle exec jekyll build && aws s3 sync _site/ s3://royalmusic.live --delete",
     "gulp": "gulp"
   },
   "author": {

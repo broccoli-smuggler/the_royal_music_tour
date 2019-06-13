@@ -3,10 +3,10 @@ layout: post
 title: "Brunch Swag"
 date: 2017-10-08
 description: 
-image: /assets/images/placeholder-15.jpg
-author: Thomas Vaeth
+image: /assets/images/test.jpg
+author: Joshua Jordan
 tags:
-  - Squid
+  - Sexy
 ---
 Church-key XOXO try-hard, schlitz kickstarter meh marfa sustainable yuccie you probably haven't heard of them. Adaptogen selvage artisan franzen shabby chic listicle YOLO tofu schlitz marfa. Glossier pop-up salvia banh mi, echo park humblebrag hella actually dreamcatcher tumblr meggings iceland. 
 
