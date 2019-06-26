@@ -18,7 +18,6 @@
     "barber",
     "jekyll",
     "blog",
-    "theme"
   ],
   "dependencies": {
     "aos": "^2.2.0",
