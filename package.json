@@ -6,6 +6,7 @@
   "scripts": {
     "start": "bundle exec jekyll serve",
     "build": "bundle exec jekyll build",
+    "compile": "gulp build && bundle exec jekyll build",
     "deploy": "gulp build && bundle exec jekyll build && aws s3 sync _site/ s3://royalmusic.live --delete",
     "gulp": "gulp"
   },
@@ -17,7 +18,7 @@
   "keywords": [
     "barber",
     "jekyll",
-    "blog",
+    "blog"
   ],
   "dependencies": {
     "aos": "^2.2.0",
