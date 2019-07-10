@@ -5,23 +5,13 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name:
-title: Royal Music
+title: Royal Music Tour
 description: >
   Deliveries of great music with soul and a story.
 url: http://royalmusic.live
 twitter_username:
 default_img: /assets/images/seo.jpg
 social:
-#  - name: twitter
-#    url: https://twitter.com/thomasvaeth
-#  - name: instagram
-#    url: https://www.instagram.com/thomas.vaeth/
-#  - name: linkedin
-#    url: https://www.linkedin.com/in/thomasvaeth/
-#  - name: github
-#    url: https://github.com/samesies
-#  - name: codepen
-#    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -62,7 +52,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: 'Royal music'
+    title: 'Royal music tour'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
