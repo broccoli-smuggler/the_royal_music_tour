@@ -20,7 +20,7 @@ They’re the kind of couple who make you get a bit woozy on the whole happily e
 
 Devon’s pretty and quaint, its white cottages posing with thatched roofs and pink flowers. The most superb sunshine on rolling hills cliché and 10/10 cornfield frolicking opportunities, made better with the solar panels charging the Denon and speakers to full bore.
 
-![Placeholder](/assets/images/cornfield.jpg)
+![Placeholder](/assets/images/cornfield.JPG)
 
 Not much in the way of restaurants or pubs, the one pub in the village has new, unfriendly owners apparently. Still, we’re stoked because we’re staying in Chapel House with old family friends, the Toops. 
 
@@ -47,4 +47,4 @@ Yessss. Let’s go.
 Track: Wonderful World – Louis Armstrong, picked by and dedicated to Angela Toop.
 
 
-![Placeholder](/assets/images/durdledoor.jpg#full)
+![Placeholder](/assets/images/durdledoor.JPG#full)

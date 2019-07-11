@@ -41,7 +41,7 @@ Insurance is bloody pricey with a NZ driver's license. DownUnder Insurance ended
 
 An absolute essential, obviously, and the Diss auction just out of Norwich is the place to get bikes. About $100 later an 80s retro racer and a vintage 60s step-over in British racing green are mounted to the back of the van (yep, bike racks were included). No shit - in London, bikes save you upwards of ten squid ($20) a day on public transport/parking.
 
-![Placeholder](/assets/images/happybikebibi.jpg)
+![Placeholder](/assets/images/happybikebibi.JPG)
 
 
 **A looming MOT:**
