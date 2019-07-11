@@ -3,7 +3,7 @@ layout: post
 title: "Setup"
 date: 2019-07-01
 description:
-image: /assets/images/solarpanelwork.jpg
+image: /assets/images/Solarpanelwork.jpg
 author: BB Queen
 tags: 
   - Vanlife
