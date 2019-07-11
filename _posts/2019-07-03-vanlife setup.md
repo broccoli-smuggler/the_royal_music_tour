@@ -18,7 +18,7 @@ Friends who were leaving to go back to NZ gave us new pillows and sheets, towels
 
 That leaves basic set up costs, including:
 
-![Placeholder](/assets/images/VanLifeSetUpCosts.jpg)
+![Placeholder](/assets/images/VanLifeSetUpCosts.JPG)
 It does seem like a lot, but this is our home for the next six months. And what's a home without loud noise on tap?
 
 
