@@ -30,7 +30,7 @@ b) Phil Toop drinks NZ wine and we’re good because Lidl’s budget Aperol alte
 
 And c) We save money.
 
-Inbetween Carol and John's and the Toops' is Durdle Door, on the Jurassic Coast. The name comes from Jurassic Park. It's absolutely stunning and a prime swimming spot. The hills are decked out with wild flowers, straight from some Jane Austin novel. Just ask Josh's mum.
+Inbetween Carol and John's and the Toops' is Durdle Door, on the Jurassic Coast. The name comes from Jurassic Park. It's absolutely stunning and a prime swimming spot. The hills are decked out with wild flowers, straight from some Jane Austen novel. Just ask Josh's mum.
 
 I never got the gardening gene – wouldn’t know a geranium from, well, anything else green – but Devon does flowers and gardens like Winston Peters does himself. Polished, overly well made up, not a hair or blade of grass out of place. These peoples’ gardens are meticulously manicured. 
 
