@@ -3,7 +3,7 @@ layout: post
 title: "Intro to France"
 date: 2019-07-19
 description:
-image: /assets/images/van.jpg
+image: /assets/images/joshfrance.jpg
 author: Bibi Bliekendaal
 tags: 
   - Blog
