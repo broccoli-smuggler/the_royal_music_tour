@@ -3,7 +3,7 @@ layout: post
 title: "Devon"
 date: 2019-07-06
 description:
-image: /assets/images/carolandjohn.JPG
+image: /assets/images/worlds.jpg
 author: BB Queen
 tags: 
   - Reviews
@@ -16,11 +16,13 @@ The World's End is full of old pictures of soldiers and newspapers from the 1800
 
 It might also be because when you get past The World’s End, you get to Carol and John’s place. Alex said her mum would be delighted with visitors, and even though Carol had no idea who we were, she’d already prepared tea while John plied us with wine and whiskey. 
 
+![Placeholder](/assets/images/carolandjohn_small.jpg)
+
 They’re the kind of couple who make you get a bit woozy on the whole happily ever after thing, because whiskey aside, you can see how in love they are. They recall stories of how they met, she carefully takes him by the arm when they go out, and he’ll slap her cheekily on the bottom as she swans past him back to the liquor cabinet. 
 
 Devon’s pretty and quaint, its white cottages posing with thatched roofs and pink flowers. The most superb sunshine on rolling hills cliché and 10/10 cornfield frolicking opportunities, made better with the solar panels charging the Denon and speakers to full bore.
 
-![Placeholder](/assets/images/cornfield.JPG)
+![Placeholder](/assets/images/cornfield_small.jpg)
 
 Not much in the way of restaurants or pubs, the one pub in the village has new, unfriendly owners apparently. Still, we’re stoked because we’re staying in Chapel House with old family friends, the Toops. 
 
@@ -36,6 +38,8 @@ I never got the gardening gene – wouldn’t know a geranium from, well, anythi
 
 Their raspberries and strawberries are so tasty, not like those paley, watery ones in the supermarket. These are tiny bites of sweet juicy goodness that make you want to eat so many you’re that kid with a stomach ache because you ate too many.  
 
+![Placeholder](/assets/images/bibistrawbs_small.jpg)
+
 To digress from food, the people in Devon are mint too. Naturally the Toops are outstanding, quality humans – not only are they dog people – Rebecca flew from Glasgow just for the weekend. It’s emotional.
 
 Not emotional but also good, the MOT guy at the garage squished us in and given no time at all, handed out an MOT with puny bill that can’t have covered his time let alone parts and MOT. Plus, when buying a secondhand surfboard the guy throws in a boardbag and a bunch of free camping spots to boot.  
@@ -47,4 +51,4 @@ Yessss. Let’s go.
 Track: Wonderful World – Louis Armstrong, picked by and dedicated to Angela Toop.
 
 
-![Placeholder](/assets/images/durdledoor.JPG#full)
+![Placeholder](/assets/images/durdledoor_small.jpg#full)

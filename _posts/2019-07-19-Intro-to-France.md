@@ -3,7 +3,7 @@ layout: post
 title: "Intro to France"
 date: 2019-07-19
 description:
-image: /assets/images/joshfrance.jpg
+image: /assets/images/englandfrance.jpg
 author: Bibi Bliekendaal
 tags: 
   - Blog
@@ -34,3 +34,5 @@ The French also have a drinking culture. It’s a wine at the beach, a small bee
 So France is the first country after England on this trip, and everyone knew it’d be great to suss the famous cheese (and wine) adoration that’s going on here. 
 
 But France is legit. We didn’t expect this country (and the people) to host us like the most. Turns out we like France and we like the French – even more than their cheese and wine.
+
+![Placeholder](/assets/images/joshfrance.jpg#full)

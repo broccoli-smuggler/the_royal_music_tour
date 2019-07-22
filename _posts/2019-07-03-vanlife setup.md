@@ -3,7 +3,7 @@ layout: post
 title: "Setup"
 date: 2019-07-01
 description:
-image: /assets/images/Solarpanelwork.jpg
+image: /assets/images/power.jpg
 author: BB Queen
 tags: 
   - Vanlife
@@ -18,7 +18,7 @@ Friends who were leaving to go back to NZ gave us new pillows and sheets, towels
 
 That leaves basic set up costs, including:
 
-![Placeholder](/assets/images/VanLifeSetUpCosts.JPG)
+![Placeholder](/assets/images/VanlifeSetUpCosts.JPG)
 It does seem like a lot, but this is our home for the next six months. And what's a home without loud noise on tap?
 
 
@@ -26,9 +26,12 @@ It does seem like a lot, but this is our home for the next six months. And what'
 
 Josh did the hard work on this. We both discussed and researched panels and decided on bendy light ones that affix to the roof, but at the end of the day Josh is the engineer and got the thing going. A post on the techy stuff coming very soon, promise. 
 
+![Placeholder](/assets/images/working_small.jpg)
+
 In short, we glued 300 Watts of solar power (three 100W panels) to the roof, attached them to two house batteries that sit under the passenger seat. These power our 3000W inverter - more than enough power for our DJ system. And a fridge, chargers, etc.
 
-![Placeholder](/assets/images/working.jpg)
+![Placeholder](/assets/images/solarpanelwork_small.jpg)
+
 
 
 **Insurance:**
@@ -41,7 +44,7 @@ Insurance is bloody pricey with a NZ driver's license. DownUnder Insurance ended
 
 An absolute essential, obviously, and the Diss auction just out of Norwich is the place to get bikes. About $100 later an 80s retro racer and a vintage 60s step-over in British racing green are mounted to the back of the van (yep, bike racks were included). No shit - in London, bikes save you upwards of ten squid ($20) a day on public transport/parking.
 
-![Placeholder](/assets/images/happybikebibi.JPG)
+![Placeholder](/assets/images/happybikebibi_small.jpg)
 
 
 **A looming MOT:**
@@ -61,4 +64,4 @@ Fingers firmly crossed, fists pumping.
 
 *Thanks go to Greg and Jenny for supplying exceptional company, gin and tandam bike rides.*
 
-![Placeholder](/assets/images/joshdj.jpg#full)
+![Placeholder](/assets/images/joshdj_small.jpg#full)
