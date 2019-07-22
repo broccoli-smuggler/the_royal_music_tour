@@ -31,16 +31,12 @@ There’s also a shop kind of like a dairy – but in France it’s not chips, p
 
 The French also have a drinking culture. It’s a wine at the beach, a small beer pre-lunch at 11,30am. It’s considered, cool, not to excess but exquisitely appropriate. 
 
-For example, at the PeteTthe Monkey festival we went to, the vibe was super friendly, not hectic or over the top, just a really creative, outgoing and welcoming group of people. We had no trouble meeting some brilliant Parisians, getting invited to play at the after party and getting a crowd along to an impromptu beach set. Good vibes.
+For example, at the Pete The Monkey festival we went to, the vibe was super friendly, not hectic or over the top, just a really creative, outgoing and welcoming group of people. We had no trouble meeting some brilliant Parisians, getting invited to play at the after party and getting a crowd along to an impromptu beach set. Good vibes.
 
-<<<<<<< HEAD
 In addition, the music is on point. These guys are into their brass bands like no tomorrow and they are banging. I saw at least one band at every stage that got the crowd bopping, from afro house to funk, alternative, disco, cheese, even some DJs working Bollywood into their sets and killing it.
 
-So France is the first country after England on this trip, and everyone knew it’d be great to suss my somewhat famous cheese (and wine) obsession and there was no way Pete The Monkey lineup was going to disappoint.
+So France is the first country after England on this trip, and everyone knew it’d be great to suss my somewhat famous cheese (and wine) obsession, and there was no way Pete The Monkey lineup was going to disappoint.
 
 But what we didn’t expect was that the people here would be so utterly generous and host us like the most. Turns out we like France and we like the French – even more than their cheese and wine.
-=======
-But France is legit. We didn’t expect this country (and the people) to host us like the most. Turns out we like France and we like the French – even more than their cheese and wine.
 
 ![Placeholder](/assets/images/joshfrance.jpg#full)
->>>>>>> fecfc4c898a52f5f6d6f66c8a3422c80a371db27
