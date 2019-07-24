@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intro to France"
-date: 2019-07-19
+date: 2019-07-10
 description:
 image: /assets/images/englandfrance.jpg
 author: Bibi Bliekendaal
