@@ -35,7 +35,7 @@ For example, at the Pete The Monkey festival we went to, the vibe was super frie
 
 In addition, the music is on point. These guys are into their brass bands like no tomorrow and they are banging. I saw at least one band at every stage that got the crowd bopping, from afro house to funk, alternative, disco, cheese, even some DJs working Bollywood into their sets and killing it.
 
-So France is the first country after England on this trip, and everyone knew it’d be great to suss my somewhat famous cheese (and wine) obsession, and there was no way Pete The Monkey lineup was going to disappoint.
+So France is the first country after England on this trip, and everyone knew it’d be great to suss my somewhat famous cheese (and wine) obsession, and there was no way the Pete The Monkey lineup was going to disappoint.
 
 But what we didn’t expect was that the people here would be so utterly generous and host us like the most. Turns out we like France and we like the French – even more than their cheese and wine.
 

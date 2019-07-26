@@ -24,21 +24,19 @@ It does seem like a lot, but this is our home for the next six months. And what'
 
 **The solar set up:**
 
-Josh did the hard work on this. We both discussed and researched panels and decided on bendy light ones that affix to the roof, but at the end of the day Josh is the engineer and got the thing going. A post on the techy stuff coming very soon, promise. 
+Josh did the hard work on this. We both discussed and researched panels and decided on bendy light ones that affix to the roof, and Josh being the engineer got the thing going. A post on the techy stuff coming very soon, promise. 
 
 ![Placeholder](/assets/images/working_small.jpg)
 
-In short, we glued 300 Watts of solar power (three 100W panels) to the roof, attached them to two house batteries that sit under the passenger seat. These power our 3000W inverter - more than enough power for our DJ system. And a fridge, chargers, etc.
+In short, we glued 300 Watts of solar power (three 100W panels) to the roof and attached them to two house batteries that sit under the passenger seat. These power our 3kW inverter - more than enough power for our DJ system and a fridge, chargers, etc.
 
 ![Placeholder](/assets/images/solarpanelwork_small.jpg)
-
-
 
 **Insurance:**
 
 This is a bit tricky. You can’t legally drive a vehicle without insurance in the UK. Also, you can’t legally buy a vehicle in the UK unless you’re a resident (or at least have a residential address). Josh’s Uncle and Aunt to the rescue (thank you, Greg and Jenny).
 
-Insurance is bloody pricey with a NZ driver's license. DownUnder Insurance ended up sussing it and for $880 you've got third party cover across Europe for 6 months. Ouch.
+Insurance is bloody pricey with a NZ driver's license. DownUnder Insurance ended up sussing it and for $880 we got third party cover across Europe for 6 months. Ouch.
 
 **Bikes:**
 
@@ -46,10 +44,9 @@ An absolute essential, obviously, and the Diss auction just out of Norwich is th
 
 ![Placeholder](/assets/images/happybikebibi_small.jpg)
 
-
 **A looming MOT:**
 
-The van's Warrant of Fitness/MOT was up mid-July. Slightly worrying, considering the state of the panelling and a random whistling/crunching noise, not to mention the ferry to France = booked in just a few days.
+The van's Warrant of Fitness/MOT was up mid-July. Slightly worrying, considering the state of the panelling and a random whistling/crunching noise, not to mention the ferry to France - booked in just a few days.
 
 However, the guys at the garage took pity and $290 later the van is legal with an MOT for another year. Yusss.
 
@@ -62,6 +59,6 @@ So here’s hoping that this tour and Elizabeth - our mini home, DJ booth and wh
 Fingers firmly crossed, fists pumping.
 
 
-*Thanks go to Greg and Jenny for supplying exceptional company, gin and tandam bike rides.*
+*Thanks go to Greg and Jenny for supplying exceptional company, gin and tandem bike rides.*
 
 ![Placeholder](/assets/images/joshdj_small.jpg#full)
