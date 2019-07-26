@@ -9,7 +9,7 @@ tags:
   - Blog
 ---
 
-France – it’s more than excellent wine, cheese and bread. There’s also pastis, rugged coast lines, they have dolphins across the channel, brilliant walks, runs, free camping spots and the French (and the French way of life).
+This country has more than excellent wine, cheese and bread. There’s also pastis, rugged coast lines, they have dolphins across the channel, brilliant walks, runs, free camping spots and the French (and the French way of life).
 
 We crossed over from Newhaven to Dieppe and come down the French coast a bit. So far a few things struck us, like where the English have barriers, the French have bare cliffs. No signage, no fences. Want to be a silly git? Go on (it’s probably how they invented base jumping).
 
