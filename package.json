@@ -10,11 +10,7 @@
     "deploy": "gulp build && bundle exec jekyll build && aws s3 sync _site/ s3://royalmusic.live --delete",
     "gulp": "gulp"
   },
-  "author": {
-    "name": "Samesies",
-    "email": "okay@samesies.io",
-    "url": "http://samesies.io"
-  },
+  "author": "Samesies <okay@samesies.io> (http://samesies.io)",
   "keywords": [
     "barber",
     "jekyll",
@@ -46,5 +42,15 @@
     "stylelint-config-standard": "^17.0.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-ns-jordan/barber-jekyll.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua-ns-jordan/barber-jekyll/issues"
+  },
+  "homepage": "https://github.com/joshua-ns-jordan/barber-jekyll#readme"
 }
