@@ -2,7 +2,7 @@
 email: mail@royalmusic.live
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics:
+google_analytics: https://www.googletagmanager.com/gtag/js?id=UA-148903236-1
 
 name:
 title: Royal Music Tour
@@ -14,7 +14,7 @@ default_img: /assets/images/RoyalMusic.jpg
 social:
 
 # Contact settings
-contact_img: /assets/images/graffiti.JPG
+contact_img: /assets/images/graffiti_small.jpg
 formcarry: https://formcarry.com/s/6QU38tpJ6gD
 
 # Disqus settings
@@ -27,10 +27,10 @@ mailchimp_input: b74964e50f0f5849983cf91752a42592-us3
 # Author settings
 author:
   - name: Joshua Jordan
-    bio: Aka "THE SOULTAN"
+    bio: Aka "The Broccoli Smuggler"
     url:
   - name: Bibi Bliekendaal
-    bio: Aka "BB QUEEN"
+    bio: Aka "BBQueen"
     url:
 
 # Pagination settings
@@ -56,7 +56,7 @@ autopages:
     permalink: '/tag/:tag'
     slugify:
       mode: raw
-      cased: true
+      cased: false
 
 # Build settings
 markdown: kramdown
