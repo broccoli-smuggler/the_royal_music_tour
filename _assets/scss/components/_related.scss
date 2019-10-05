@@ -58,16 +58,6 @@
     }
   }
 
-  &__link_callstoactions {
-    @extend .callstoactions__link;
-
-    &:hover {
-      .related__img {
-        transform: translate3d(0, -10px, 0);
-      }
-    }
-  }
-
   &__link {
     @extend .posts__link;
 

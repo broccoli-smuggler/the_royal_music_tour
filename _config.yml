@@ -64,7 +64,7 @@ actions:
     image: /assets/images/bookings.jpg
   - title: Deliveries
     url: /deliveries
-    image: /assets/images/deliveries5.jpg
+    image: /assets/images/deliveries.jpg
   - title: Support
     url: /support
     image: /assets/images/support.jpg
