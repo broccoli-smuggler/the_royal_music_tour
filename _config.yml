@@ -30,7 +30,7 @@ author:
     bio: Aka "The Broccoli Smuggler"
     url:
   - name: Bibi Bliekendaal
-    bio: Aka "BBQueen"
+    bio: Aka "BB Queen"
     url:
 
 # Pagination settings
@@ -61,13 +61,13 @@ autopages:
 actions: 
   - title: Bookings
     url: /bookings
-    image: /assets/images/RoyalMusic.jpg
+    image: /assets/images/bookings.jpg
   - title: Deliveries
     url: /deliveries
-    image: /assets/images/RoyalMusic.jpg
+    image: /assets/images/deliveries5.jpg
   - title: Support
     url: /support
-    image: /assets/images/RoyalMusic.jpg
+    image: /assets/images/support.jpg
 
   
 # Build settings
