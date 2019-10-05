@@ -14,7 +14,7 @@ default_img: /assets/images/RoyalMusic.jpg
 social:
 
 # Contact settings
-contact_img: /assets/images/graffiti_small.jpg
+contact_img: /assets/images/contact.jpg
 formcarry: https://formcarry.com/s/6QU38tpJ6gD
 
 # Disqus settings
