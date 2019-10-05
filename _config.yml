@@ -4,8 +4,8 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: https://www.googletagmanager.com/gtag/js?id=UA-148903236-1
 
-name:
-title: Royal Music Tour
+name: Royal Music
+title: The Royal Music Tour
 description: >
   Deliveries of great music with soul and a story.
 url: http://royalmusic.live
@@ -46,18 +46,30 @@ pagination:
 autopages:
   enabled: true
   categories:
-    enabled: false
+    enabled: true
   collections:
     enabled: false
   tags:
     layouts:
       - 'tag.html'
-    title: 'Royal music tour'
+    title: ':tag'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
       cased: false
 
+actions: 
+  - title: Bookings
+    url: /bookings
+    image: /assets/images/RoyalMusic.jpg
+  - title: Deliveries
+    url: /deliveries
+    image: /assets/images/RoyalMusic.jpg
+  - title: Support
+    url: /support
+    image: /assets/images/RoyalMusic.jpg
+
+  
 # Build settings
 markdown: kramdown
 plugins:

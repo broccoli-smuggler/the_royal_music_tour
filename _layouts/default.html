@@ -8,21 +8,16 @@ layout: compress
   {% include head.html %}
 
 </head>
-<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
+<body>
   
   {% include header.html %}
 
   <main class="💈">
-    <div class="post__content section-padding">
-      <div class="grid">
-        <div id="markdown">
-          {{content}}
-        </div>
-      </div>
-    </div>
+     {{content}}
   </main>
+  
+  {% include contact.html %}
 
   <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
-
 </body>
 </html>

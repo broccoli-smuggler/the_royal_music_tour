@@ -37,6 +37,37 @@
     }
   }
 
+  &__bookings{
+    @media (max-width: $mq-small) {
+      padding: {
+        top: 2em;
+        bottom: 2em;
+      }
+    }
+
+    @media (min-width: $mq-med) {
+      padding-bottom: 0;
+    }
+
+    &:last-child {
+      padding-bottom: 0;
+
+      @media (min-width: $mq-small) and (max-width: $mq-med) {
+        display: none;
+      }
+    }
+  }
+
+  &__link_callstoactions {
+    @extend .callstoactions__link;
+
+    &:hover {
+      .related__img {
+        transform: translate3d(0, -10px, 0);
+      }
+    }
+  }
+
   &__link {
     @extend .posts__link;
 
