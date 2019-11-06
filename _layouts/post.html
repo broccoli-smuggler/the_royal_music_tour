@@ -50,18 +50,23 @@ layout: default
     {% endif %}
 
     {% include disqus.html %}
-
   </article>
 </div>
 
 <!-- Links to Previous/Next posts -->
-{% assign relatedTag = page.tags | first %}
-{% if relatedTag %}
+{% assign allRelatedPosts = nil %}
+{% for tag in page.tags %}
+  {% unless allRelatedPosts contains site.tags[tag] %}
+    {% assign allRelatedPosts = allRelatedPosts | concat: site.tags[tag] %}
+  {% endunless %}
+{% endfor %}
+
+{% if allRelatedPosts %}
   <section class="related section-padding">
     <div class="grid-xlarge">
       <h2 class="related__title">Related</h2>
       <div class="related__container">
-        {% for post in site.tags[relatedTag] limit: 3 %}
+        {% for post in allRelatedPosts limit: 3 %}
           <article class="related__post">
             <a class="related__link" href="{{ post.url | absolute_url }}">
               {% if post.image %}
