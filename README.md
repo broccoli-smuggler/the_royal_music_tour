@@ -4,7 +4,10 @@ This is the website/blog for our trip through europe surfing and DJ'ing.
 It is built using the jekyll static website generator based on the barber theme. Currently hosted using an AWS buket instance.
 
 ## setup
-Jekyll requires all dependencies to be saved in the Gemfile. Install the dependancies using bundle.
+Jekyll requires all dependencies to be saved in the Gemfile. Install the dependancies using the ruby bundler.
+`gem install bundler`
+
+Then install the libraries required with:
 `bundle install`
 
 ## build
