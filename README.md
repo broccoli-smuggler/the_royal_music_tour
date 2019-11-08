@@ -5,10 +5,14 @@ It is built using the jekyll static website generator based on the barber theme.
 
 ## setup
 Jekyll requires all dependencies to be saved in the Gemfile. Install the dependancies using the ruby bundler.
+
 `gem install bundler`
 
 Then install the libraries required with:
 `bundle install`
+
+You may need to delete the node_modules folder and run 
+`npm install`
 
 ## build
 To build the production ready site preview, run:
