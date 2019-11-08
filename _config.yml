@@ -59,10 +59,10 @@ autopages:
 
 actions: 
   - title: Bookings
-    url: /bookings
+    url: /bookings           
     image: /assets/images/bookings.jpg
-  - title: Deliveries
-    url: /deliveries
+  - title: Shenanigans
+    url: /shenanigans
     image: /assets/images/deliveries.jpg
   - title: Support
     url: /support

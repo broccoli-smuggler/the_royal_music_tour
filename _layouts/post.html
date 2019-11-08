@@ -54,11 +54,13 @@ layout: default
 </div>
 
 <!-- Links to Previous/Next posts -->
-{% assign allRelatedPosts = nil %}
+{% assign allRelatedPosts = "" | split: ',' %}
 {% for tag in page.tags %}
-  {% unless allRelatedPosts contains site.tags[tag] %}
-    {% assign allRelatedPosts = allRelatedPosts | concat: site.tags[tag] %}
-  {% endunless %}
+    {% for p in site.tags[tag] %}
+      {% unless allRelatedPosts contains p %}
+        {% assign allRelatedPosts = allRelatedPosts | push: p %}
+      {% endunless %}
+    {% endfor %}
 {% endfor %}
 
 {% if allRelatedPosts %}
