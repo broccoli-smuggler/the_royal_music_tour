@@ -1,5 +1,35 @@
 <form id="form" class="form" action="{{ site.formcarry }}" method="POST">
-  <div class="grid=xlarge">
+  <div class="form__subcontainer">
+    <div>
+      <label for="form-first-name">First name</label>
+      <input type="text" name="firstName" id="form-first-name" required>
+    </div>
+    <div>
+      <label for="form-last-name">Last name</label>
+      <input type="text" name="lastName" id="form-last-name">
+    </div>
+  </div>
+  <div>
+    <label for="form-email">Email address</label>
+    <input type="email" name="email" id="form-email" required>
+  </div>
+
+  <div>
+    <label for="form-message">What's the story?</label>
+    <textarea name="message" id="form-message" rows="3"></textarea>
+  </div>
+
+  <input type="hidden" name="_gotcha">
+
+  <div class="form__submit">
+    <div class="form__btn">
+      <input type="submit" value="Send">
+    </div>
+  </div>
+
+  <p class="form__message"></p>
+
+<!--   <div class="grid=xlarge">
     <p>BB Queen & The Broccoli Smuggler, <br>
     The Royal Music van, <br>
     Amsterdam
@@ -9,5 +39,5 @@
     	<br>
     	(+31) 614639575
 	</p>
-  </div>
+  </div> -->
 </form>
