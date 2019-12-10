@@ -14,4 +14,5 @@ title: Bookings
 
 <hr>
 
-We can bring a mobile party to you, fully solar-powered with DJs, speakers, and an Espresso Martini or two. Make a booking.
+We can bring a mobile party to you, fully solar-powered with DJs, speakers, and an Espresso Martini or two.
+<a href="mailto:mail@royalmusic.live?subject=Bookings">Email us to make a booking.</a>
